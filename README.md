@@ -1,2 +1,2 @@
 # brownian-motion
-A module to analyse collected data from a Brownian motion experiment. The data collection used recordings from a ZEISS microscope, tracked polyestirene spheres with Physlets Tracker, and recorded temperature with and Arduino module connected to a LM35 sensor. 
+A Mathematica module to analyse collected data from a Brownian motion experiment (analysisV14.nb or analysisV15.nb). The data collection used recordings from a ZEISS microscope to track polyestirene spheres with Physlets Tracker (.trz or .trk files), and recorded temperature directly to Mathematica (LM35.nb to generate data stored in LM35.mx) with and Arduino module connected to a LM35 sensor (Arduino module LM35.ino). 
