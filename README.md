@@ -5,4 +5,6 @@ In the brownian-motion folder you can find the modules described above used to a
 
 Temperature recording: The ArduinoIDE module must be uploaded to the Arduino microprocessor. Ensure it is collecting data and printing it in the serial monitor of the ArduinoIDE. Then open and run the first two cells of the LM35.nb Mathematica module (1. Connection to Arduino and 2. Starts the collection of data): it must show live the temperature data collection as a plot. To stop the measurement run the next cell, and finally run the last one to disconnect the Arduino and saves the result.
 
+NOTE: To use the code, download the whole project as a .zip and extract it in a computer that has Mathematica installed (recommended Version 11.1 or above).
+
 Based on the Lab Report: .
